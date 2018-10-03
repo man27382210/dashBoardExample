@@ -1,0 +1,7 @@
+!.eslintrc.js
+src/assets/jss/*
+build
+script
+config
+node_modules
+fake-server
